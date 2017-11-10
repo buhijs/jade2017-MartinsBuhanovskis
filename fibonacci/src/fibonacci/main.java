@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class main {
-	// fibonacci class
+	
 	public static void main(String[] args) {
 		
 		// number input
