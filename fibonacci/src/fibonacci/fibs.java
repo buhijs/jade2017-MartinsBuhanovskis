@@ -3,11 +3,12 @@ package fibonacci;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class main {
+public class fibs {
 	
 	public static void main(String[] args) {
 		
 		// number input
+		@SuppressWarnings("resource")
 		int number = new Scanner(System.in).nextInt();
 		
 		long[] series = new long[number];
